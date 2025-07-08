@@ -1,0 +1,2028 @@
+{
+    "datasets": [
+        {
+            "dataset_name": "General",
+            "Categories": [
+                {
+                    "name": "Peg Kelley's Favorite Cleaning Products",
+                    "terms": [
+                        "Ivory Soap",
+                        "Ajax",
+                        "Arm and Hammer",
+                        "Pledge"
+                    ]
+                },
+                {
+                    "name": "Great Lakes Islands",
+                    "terms": [
+                        "Apostle", 
+                        "Madeline", 
+                        "Mackinac", 
+                        "Isle Royale"
+                    ]
+                },
+                {
+                    "name": "Salad Dressing Flavors",
+                    "terms": [
+                        "Ranch",
+                        "Caesar", 
+                        "Green Goddess", 
+                        "Thousand Island"
+                    ]
+                },
+                {
+                    "name": "House Styles",
+                    "terms": [
+                        "Cape Cod",
+                        "Ranch",
+                        "Colonial",
+                        "Victorian"
+                    ]
+                },
+                {
+                    "name": "Hanna Barbera Shows",
+                    "terms": [
+                        "Penelope Pitstop", 
+                        "Banana Splits", 
+                        "Yogi Bear", 
+                        "Huckleberry Hound"
+                    ]
+                },
+                {
+                    "name": "Horror Movie Main Characters First Names",
+                    "terms": [
+                        "Freddy",
+                        "Jason", 
+                        "Michael",
+                        "Ash"
+                    ]
+                },
+                {
+                    "name": "Heroes of Greek Myth and Legend",
+                    "terms": [
+                        "Ajax",
+                        "Hercules",
+                        "Achilles",
+                        "Jason"
+                    ]
+                },
+                {
+                    "name": "Christmas Carol items",
+                    "terms": [
+                        "Partridge in a Pear tree",
+                        "Swans a-swimming",
+                        "Lords a-leaping",
+                        "Ladies dancing",
+                        "French Hens",
+                        "Turtle Doves",
+                        "Calling Birds",
+                        "Golden Rings",
+                        "Geese a-laying",
+                        "Maids a-milking",
+                        "Pipers piping",
+                        "Drummers drumming",
+                        "Frosty, a snowman",
+                        "St. Nick",
+                        "Santa Claus",
+                        "corncob pipe",
+                        "A peppermint stick"
+                    ]
+                },
+                {
+                    "name": "Stereotypical pet names",
+                    "terms": [
+                        "Rover",
+                        "Mittens",
+                        "Spot",
+                        "Lady",
+                        "Buddy",
+                        "Max",
+                        "Bella",
+                        "Duke",
+                        "Shadow",
+                        "Whiskers",
+                        "Smokey",
+                        "Tiger",
+                        "Tweety",
+                        "Polly",
+                        "Peaches"
+                    ]
+                },
+                {
+                    "name": "Luxury car makers",
+                    "terms": [
+                        "Rolls-Royce",
+                        "Bentley",
+                        "Mercedes-Benz",
+                        "BMW",
+                        "Audi",
+                        "Lexus",
+                        "Genesis",
+                        "Cadillac",
+                        "Land Rover",
+                        "Lincoln",
+                        "Porsche",
+                        "Aston Martin",
+                        "Ferrari",
+                        "Lamborghini",
+                        "McLaren",
+                        "Maserati",
+                        "Jaguar",
+                        "Ferrari"
+                    ]
+                },
+                {
+                    "name": "Marvel heroes",
+                    "terms": [
+                        "Iron Man",
+                        "Captain America",
+                        "Thor",
+                        "Hulk",
+                        "Black Widow",
+                        "Hawkeye",
+                        "Black Panther",
+                        "Doctor Strange",
+                        "Spider-Man",
+                        "Ant-Man",
+                        "Wasp",
+                        "Captain Marvel",
+                        "Falcon",
+                        "War Machine",
+                        "She-Hulk",
+                        "Shang-Chi",
+                        "Wolverine",
+                        "Professor X",
+                        "Cyclops",
+                        "Jean Grey",
+                        "Storm",
+                        "Rogue",
+                        "Gambit",
+                        "Colossus",
+                        "Beast",
+                        "Cable",
+                        "Mr. Fantastic",
+                        "Invisible Woman",
+                        "Human Torch",
+                        "The Thing",
+                        "Star-Lord",
+                        "Gamora",
+                        "Drax the Destroyer",
+                        "Rocket Raccoon",
+                        "Groot",
+                        "Nebula",
+                        "Daredevil",
+                        "Luke Cage",
+                        "Iron Fist",
+                        "Jessica Jones",
+                        "The Punisher",
+                        "Elektra",
+                        "Ghost Rider"
+                    ]
+                },
+                {
+                    "name": "Great Moments in Tariff History",
+                    "terms": [
+                        "Zollverein",
+                        "NAFTA",
+                        "Fordney-McCumber",
+                        "Smoot Hawley"
+                    ]
+                },
+                {
+                    "name": "Famous prog rock bands",
+                    "terms": [
+                        "Yes",
+                        "Genesis",
+                        "King Crimson",
+                        "Emerson, Lake & Palmer",
+                        "Jethro Tull",
+                        "Rush",
+                        "Uriah Heep",
+                        "Kansas",
+                        "Pink Floyd"
+                    ]
+                },
+                {
+                    "name": "70's Hard Rock bands",
+                    "terms": [
+                        "Led Zeppelin",
+                        "Deep Purple",
+                        "Black Sabbath",
+                        "Aerosmith",
+                        "AC/DC",
+                        "Kiss",
+                        "Van Halen",
+                        "Bad Company",
+                        "ZZ Top",
+                        "Foghat",
+                        "Free",
+                        "Grand Funk Railroad",
+                        "Rush",
+                        "Uriah Heep",
+                        "Blue Öyster Cult",
+                        "Rainbow",
+                        "Wishbone Ash",
+                        "Boston",
+                        "REO Speedwagon",
+                        "Cheap Trick",
+                        "Ted Nugent",
+                        "The Doobie Brothers",
+                        "Scorpions",
+                        "Thin Lizzy",
+                        "Montrose",
+                        "Alice Cooper",
+                        "Nazareth"
+                    ]
+                },
+                {
+                    "name": "Yacht Rock Bands",
+                    "terms": [
+                        "Steely Dan",
+                        "Toto",
+                        "Michael McDonald",
+                        "Christopher Cross",
+                        "Boz Scaggs",
+                        "Kenny Loggins",
+                        "Hall & Oates"
+                    ]
+                },
+                {
+                    "name": "Yacht Rock Must-Haves",
+                    "terms": [
+                        "Hey Nineteen",
+                        "I Keep Forgettin’",
+                        "Rosanna",
+                        "Sailing",
+                        "Lowdown",
+                        "This Is It",
+                        "Sara Smile",
+                        "Reminiscing",
+                        "Steal Away",
+                        "Biggest Part of Me"
+                    ]
+                },
+                {
+                    "name": "Spy Planes",
+                    "terms": [
+                        "U-2",
+                        "SR-71 Blackbird",
+                        "A-12",
+                        "F-117 Nighthawk"
+                    ]
+                },
+                {
+                    "name": "80's Rock Bands",
+                    "terms": [
+                        "Bon Jovi",
+                        "Journey",
+                        "Foreigner",
+                        "REO Speedwadon",
+                        "Boston",
+                        "Heart",
+                        "Styx",
+                        "Def Leppard",
+                        "Guns N’ Roses",
+                        "Whitesnake",
+                        "Mötley Crüe",
+                        "Poison",
+                        "Twisted Sister",
+                        "Ratt",
+                        "Quiet Riot",
+                        "The Police",
+                        "U2",
+                        "The Cure",
+                        "Talking Heads",
+                        "R.E.M.",
+                        "INXS",
+                        "The Clash",
+                        "Ramones",
+                        "Billy Idol",
+                        "Tom Petty & the Heartbreakers",
+                        "Dire Straits",
+                        "Bruce Springsteen & the E Street Band"
+                    ]
+                },
+                {
+                    "name": "Major #1 Hits of the 80s",
+                    "terms": [
+                        "Physical",
+                        "Bette Davis Eyes",
+                        "Endless Love",
+                        "Every Breath You Take",
+                        "I Love Rock 'n' Roll",
+                        "Ebony and Ivory",
+                        "Billie Jean",
+                        "Call Me",
+                        "Lady",
+                        "Centerfold",
+                        "Eye of the Tiger",
+                        "Flashdance... What a Feeling",
+                        "Say, Say, Say",
+                        "Like a Virgin"
+                    ]
+                },
+                {
+                    "name": "Major #1 Hits of the 60s*",
+                    "terms": [
+                        "Mack the Knife",
+                        "Theme from A Summer Place",
+                        "Hey Jude",
+                        "Tossin' and Turnin'",
+                        "I Want to Hold Your Hand",
+                        "I'm a Believer",
+                        "I Heard It Through the Grapevine",
+                        "It's All in the Game",
+                        "The Battle of New Orleans",
+                        "Are You Lonesome Tonight?",
+                        "Aquarius/Let the Sunshine In",
+                        "In the Year 2525"
+                    ]
+                },
+                {
+                    "name": "Major #1 Hits of the 70s",
+                    "terms": [
+                        "You Light Up My Life",
+                        "Night Fever",
+                        "Tonight's the Night",
+                        "Shadow Dancing",
+                        "Bridge over Troubled Water",
+                        "Joy to the World",
+                        "The First Time Ever I Saw Your Face",
+                        "Alone Again (Naturally)",
+                        "Le Freak",
+                        "My Sharona",
+                        "I'll Be There",
+                        "One Bad Apple",
+                        "It's Too Late",
+                        "Maggie May",
+                        "Killing Me Softly With His Song",
+                        "Silly Love Songs",
+                        "Best of My Love",
+                        "Bad Girls"
+                    ]
+                },
+                {
+                    "name": "Major #1 Hits of the 90s",
+                    "terms": [
+                        "One Sweet Day",
+                        "I Will Always Love You",
+                        "I'll Make Love To You",
+                        "Macarena (Bayside Boys Mix)",
+                        "Candle in the Wind",
+                        "End of the Road",
+                        "The Boy Is Mine",
+                        "I Swear",
+                        "Un-Break My Heart",
+                        "I'll Be Missing You",
+                        "Smooth**"
+                    ]
+                },
+                {
+                    "name": "Major #1 Hits of the 00s",
+                    "terms": [
+                        "We Belong Together",
+                        "I Gotta Feeling",
+                        "Lose Yourself",
+                        "Yeah!",
+                        "Boom Boom Pow",
+                        "Independent Women",
+                        "Maria Maria",
+                        "Foolish",
+                        "Dilemma",
+                        "Gold Digger",
+                        "Irreplaceable",
+                        "Low"
+                    ]
+                },
+                {
+                    "name": "Major #1 Hits of the 2010s",
+                    "terms": [
+                        "Old Town Road",
+                        "Despacito",
+                        "Uptown Funk",
+                        "Blurred Lines",
+                        "See You Again",
+                        "Closer",
+                        "Shape of You",
+                        "God's Plan",
+                        "We Found Love",
+                        "Happy",
+                        "Hello",
+                        "One Dance",
+                        "In My Feelings"
+                    ]
+                },
+                {
+                    "name": "Famous MLB First Pitches",
+                    "terms": [
+                        "George W. Bush",
+                        "Barack Obama",
+                        "Franklin D. Roosevelt",
+                        "John F. Kennedy",
+                        "Bill Clinton",
+                        "Richard Nixon",
+                        "Ronald Reagan",
+                        "Gabby Giffords",
+                        "Bob Feller",
+                        "Simone Biles",
+                        "Yogi Berra",
+                        "Anthony Fauci"
+                    ]
+                },
+                {
+                    "name": "Famous Folks in the Medical Field",
+                    "terms": [
+                        "Florence Nightingale",
+                        "Clara Barton",
+                        "Anthony Fauci",
+                        "Walter Reed",
+                        "Hippocrates",
+                        "Charles Drew",
+                        "Jonas Salk"
+                    ]
+                },
+                {
+                    "name": "Olympic Events Categories",
+                    "terms": [
+                        "Aquatics",
+                        "Athletics",
+                        "Cycling",
+                        "Gymnastics",
+                        "Combat Sports",
+                        "Team Sports",
+                        "Target Sports",
+                        "Equestrian Sports",
+                        "Ice Sports",
+                        "Snow Sports"
+                    ]
+                },
+                {
+                    "name": "Common additions to drinks",
+                    "terms": [
+                        "Sugar",
+                        "Honey",
+                        "Milk/Cream",
+                        "Whipped cream",
+                        "Ice",
+                        "Lemon/Citrus",
+                        "Cherries",
+                        "Bitters",
+                        "Grenadine",
+                        "Mint",
+                        "Olives",
+                        "Protein powder",
+                        "Marshmallows"
+                    ]
+                },
+                {
+                    "name": "Popular Social Media Sites",
+                    "terms": [
+                        "Facebook",
+                        "YouTube",
+                        "Instagram",
+                        "TikTok",
+                        "Twitter",
+                        "Snapchat",
+                        "LinkedIn",
+                        "Reddit",
+                        "Pinterest",
+                        "Threads",
+                        "WhatsApp",
+                        "Discord",
+                        "Telegram"
+                    ]
+                },
+                {
+                    "name": "AI Helpers",
+                    "terms": [
+                        "ChatGPT",
+                        "Gemini",
+                        "Copilot",
+                        "DALL·E",
+                        "Copilot"
+                    ]
+                },
+                {
+                    "name": "Beloved Yankees",
+                    "terms": [
+                        "Jeter",
+                        "Pettitte",
+                        "Rivera",
+                        "Berra",
+                        "Ruth",
+                        "Gehrig",
+                        "Mantle",
+                        "Maris",
+                        "A-Rod",
+                        "DiMaggio"
+                    ]
+                },
+                {
+                    "name": "Famous Native American Leaders",
+                    "terms": [
+                        "Sitting Bull",
+                        "Geronimo",
+                        "Crazy Horse",
+                        "Chief Joseph",
+                        "Tecumseh",
+                        "Pontiac",
+                        "Cochise"
+                    ]
+                },
+                {
+                    "name": "Lakes, Great and otherwise",
+                    "terms": [
+                        "Superior",
+                        "Huron",
+                        "Michigan",
+                        "Erie",
+                        "Ontario",
+                        "Champlain",
+                        "Lake of the Woods",
+                        "Great Salt Lake",
+                        "Lake St. Clair",
+                        "Lake Okeechobee"
+                    ]
+                },
+                {
+                    "name": "Interesting Mountain Ranges",
+                    "terms": [
+                        "Himalayas",
+                        "Andes",
+                        "Rockies",
+                        "Alps",
+                        "Urals",
+                        "Sierra Nevada",
+                        "Caucasus",
+                        "Pyrenees",
+                        "Appalachians",
+                        "Tien Shan"
+                    ]
+                },
+                {
+                    "name": "Major Rivers",
+                    "terms": [
+                        "Nile",
+                        "Amazon",
+                        "Yangtze",
+                        "Mississippi",
+                        "Missouri",
+                        "Yellow",
+                        "Congo",
+                        "Mekong",
+                        "Yukon",
+                        "Rio Grande",
+                        "Ohio",
+                        "Snake",
+                        "Columbia",
+                        "Red",
+                        "Hudson"
+                    ]
+                },
+                {
+                    "name": "US States that start with M",
+                    "terms": [
+                        "Maine",
+                        "Maryland",
+                        "Massachusetts",
+                        "Mississippi",
+                        "Missouri",
+                        "Michigan",
+                        "Minnesota",
+                        "Montana"
+                    ]
+                },
+                {
+                    "name": "Grateful Dead Albums",
+                    "terms": [
+                        "Anthem of the Sun",
+                        "Aoxomoxoa",
+                        "Workingman’s Dead",
+                        "American Beauty",
+                        "Europe '72",
+                        "Blues for Allah",
+                        "Terrapin Station",
+                        "Shakedown Street",
+                        "In the Dark"
+                    ]
+                },
+                {
+                    "name": "Towns on Cape Cod",
+                    "terms": [
+                        "Provincetown",
+                        "Truro",
+                        "Wellfleet",
+                        "Chatham",
+                        "Harwich",
+                        "Brewster",
+                        "Dennis",
+                        "Harwich",
+                        "Falmouth",
+                        "Barnstable",
+                        "Orleans",
+                        "Eastham",
+                        "Yarmouth"
+                    ]
+                },
+                {
+                    "name": "Pizza Joints",
+                    "terms": [
+                        "Domino's",
+                        "Papa Johns",
+                        "Little Caesars",
+                        "Marco's",
+                        "Pizza Hut"
+                    ]
+                },
+                {
+                    "name": "Cruise Lines",
+                    "terms": [
+                        "Carnival",
+                        "Princess",
+                        "Disney",
+                        "Norwegian",
+                        "Holland America"
+                    ]
+                },
+                {
+                    "name": "US National Parks*",
+                    "terms": [
+                        "Great Smoky Mountains",
+                        "Grand Canyon",
+                        "Zion",
+                        "Yellowstone",
+                        "Rocky Mountain",
+                        "Yosemite",
+                        "Acadia",
+                        "Grand Teton",
+                        "Olympic",
+                        "Joshua Tree",
+                        "Indiana Dunes",
+                        "Glacier",
+                        "Cuyahoga Valley",
+                        "Death Valley",
+                        "Arches"
+                    ]
+                },
+                {
+                    "name": "Beach Vacation Destinations",
+                    "terms": [
+                        "Maldives",
+                        "Bora Bora",
+                        "Maui",
+                        "Santorini",
+                        "Bahamas",
+                        "Phuket",
+                        "Bali",
+                        "Seychelles"
+                    ]
+                },
+                {
+                    "name": "Super Bowl MVPs",
+                    "terms": [
+                        "Bart Starr*",
+                        "Joe Namath",
+                        "Len Dawson",
+                        "Chuck Howley",
+                        "Roger Staubach",
+                        "Jake Scott",
+                        "Larry Csonka",
+                        "Franco Harris",
+                        "Lynn Swann",
+                        "Fred Biletnikoff",
+                        "Harvey Martin",
+                        "Randy White",
+                        "Terry Bradshaw*",
+                        "Jim Plunkett",
+                        "Joe Montana*",
+                        "John Riggins",
+                        "Marcus Allen",
+                        "Richard Dent",
+                        "Phil Simms",
+                        "Doug Williams",
+                        "Jerry Rice",
+                        "Ottis Anderson",
+                        "Mark Rypien",
+                        "Troy Aikman",
+                        "Emmitt Smith",
+                        "Steve Young",
+                        "Larry Brown",
+                        "Desmond Howard",
+                        "Terrell Davis",
+                        "John Elway",
+                        "Kurt Warner",
+                        "Ray Lewis",
+                        "Tom Brady*",
+                        "Dexter Jackson",
+                        "Deion Branch",
+                        "Hines Ward",
+                        "Peyton Manning",
+                        "Eli Manning*",
+                        "Santonio Holmes",
+                        "Drew Brees",
+                        "Aaron Rodgers",
+                        "Joe Flacco",
+                        "Malcolm Smith",
+                        "Von Miller",
+                        "Nick Foles",
+                        "Julian Edelman",
+                        "Patrick Mahomes*",
+                        "Cooper Kupp",
+                        "Jalen Hurts"
+                    ]
+                },
+                {
+                    "name": "Movies You've Seen A Hundred Times",
+                    "terms": [
+                        "The Firm",
+                        "The Rainmaker",
+                        "Princess Bride",
+                        "Shawshank Redemption",
+                        "My Cousing Vinny",
+                        "Trading Places",
+                        "Animal House",
+                        "Christmas Vacation",
+                        "Caddyshack",
+                        "Beteljuice",
+                        "Ghostbusters",
+                        "Coming To America",
+                        "Sandlot",
+                        "Love Story",
+                        "Shooter",
+                        "I Am Legend",
+                        "Harry Potter*",
+                        "White House Down",
+                        "Law Abiding Citizen"
+                    ]
+                },
+                {
+                    "name": "Ball Sports that do not have Ball in the name",
+                    "terms": [
+                        "Lacrosse",
+                        "Soccer*",
+                        "Tennis",
+                        "Squash",
+                        "Table Tennis",
+                        "Rugby",
+                        "Polo",
+                        "Water Polo",
+                        "Cricket",
+                        "Jai Alai",
+                        "Golf",
+                        "Bowling",
+                        "Croquet",
+                        "Field Hockey"
+                    ]
+                },
+                {
+                    "name": "Car companies named after the founder",
+                    "terms": [
+                        "Bentley",
+                        "Bugatti",
+                        "Chevrolet",
+                        "Chrysler",
+                        "Ferrari",
+                        "Ford",
+                        "Honda",
+                        "Lamborghini",
+                        "McLaren",
+                        "Peugeot",
+                        "Porsche",
+                        "Renault",
+                        "Rolls-Royce",
+                        "Toyota",
+                        "DeLorean",
+                        "Oldsmobile",
+                        "Packard",
+                        "Studebaker",
+                        "Tucker"
+                    ]
+                },
+                {
+                    "name": "Favorite BoSaux from the mid 70's",
+                    "terms": [
+                        "Lynn",
+                        "Rice",
+                        "Evans",
+                        "Fisk",
+                        "Tiant",
+                        "Burleson",
+                        "Carbo"
+                    ]
+                },
+                {
+                    "name": "Top 40 hits that were non-English",
+                    "terms": [
+                        "Volare (Nel Blu Dipinto Di Blu)",
+                        "Sukiyaki",
+                        "Der Kommissar", 
+                        "99 Luftballons", 
+                        "Rock Me Amadeus",
+                        "La Bamba",
+                        "Macarena",
+                        "Gangnam Style"
+                    ]
+                },
+                {
+                    "name": "A Few of My Favorite Things",
+                    "terms": [
+                        "Raindrops on roses",
+                        "Whiskers on kittens",
+                        "Bright copper kettles",
+                        "Warm woolen mittens",
+                        "Brown paper packages \ntied up with strings",
+                        "Cream-colored ponies",
+                        "Crisp apple strudels",
+                        "Doorbells",
+                        "Sleigh bells",
+                        "Schnitzel with noodles",
+                        "Wild geese that fly with \nthe moon on their wings",
+                        "Girls in white dresses with blue satin sashes",
+                        "Snowflakes that stay on my nose",
+                        "Eyelashes",
+                        "Silver-white winters that melt into springs"
+                    ]
+                },
+
+                {
+                    "name": "Famous Shakespearean Plays",
+                    "terms": ["Hamlet", "Macbeth", "Romeo and Juliet", "Othello"]
+                },
+                {
+                    "name": "Planets in our Solar System",
+                    "terms": ["Mercury", "Venus", "Earth", "Mars"]
+                },
+                {
+                    "name": "Primary Colors",
+                    "terms": ["Red", "Blue", "Yellow", "Green"]
+                },
+                {
+                    "name": "Countries in Africa",
+                    "terms": ["Nigeria", "Kenya", "Egypt", "South Africa"]
+                },
+                {
+                    "name": "Continents",
+                    "terms": ["Asia", "Africa", "North America", "Europe"]
+                },
+                {
+                    "name": "Elements in the Periodic Table",
+                    "terms": ["Hydrogen", "Oxygen", "Carbon", "Nitrogen"]
+                },
+                {
+                    "name": "Major World Religions",
+                    "terms": ["Christianity", "Islam", "Hinduism", "Buddhism"]
+                },
+                {
+                    "name": "Types of Fruit",
+                    "terms": ["Apple", "Banana", "Orange", "Grapes"]
+                },
+                {
+                    "name": "Great Lakes in North America",
+                    "terms": ["Lake Superior", "Lake Michigan", "Lake Huron", "Lake Erie"]
+                },
+                {
+                    "name": "Spices",
+                    "terms": ["Cumin", "Cinnamon", "Pepper", "Turmeric"]
+                },
+                {
+                    "name": "Classic Novels",
+                    "terms": ["Moby Dick", "Pride and Prejudice", "1984", "The Great Gatsby"]
+                },
+                {
+                    "name": "Common Dog Breeds",
+                    "terms": ["Labrador Retriever", "German Shepherd", "Golden Retriever", "Bulldog"]
+                },
+                {
+                    "name": "Types of Pasta",
+                    "terms": ["Spaghetti", "Fettuccine", "Penne", "Macaroni"]
+                },
+                {
+                    "name": "Languages of the World",
+                    "terms": ["English", "Spanish", "Mandarin", "Arabic"]
+                },
+                {
+                    "name": "Famous Artists",
+                    "terms": ["Vincent van Gogh", "Pablo Picasso", "Claude Monet", "Leonardo da Vinci"]
+                },
+                {
+                    "name": "Types of Trees",
+                    "terms": ["Oak", "Maple", "Pine", "Birch"]
+                },
+                {
+                    "name": "Famous Scientists",
+                    "terms": ["Albert Einstein", "Isaac Newton", "Marie Curie", "Charles Darwin"]
+                },
+                {
+                    "name": "World Capitals",
+                    "terms": ["Tokyo", "Paris", "Canberra", "Ottawa"]
+                },
+                {
+                    "name": "Types of Fish",
+                    "terms": ["Salmon", "Tuna", "Trout", "Goldfish"]
+                },
+                {
+                    "name": "Popular Television Shows",
+                    "terms": ["Friends", "The Office", "Game of Thrones", "Breaking Bad"]
+                },
+                {
+                    "name": "Olympic Sports",
+                    "terms": ["Swimming", "Athletics", "Gymnastics", "Basketball"]
+                },
+                {
+                    "name": "Scientific Disciplines",
+                    "terms": ["Biology", "Chemistry", "Physics", "Mathematics"]
+                },
+                {
+                    "name": "Types of Clouds",
+                    "terms": ["Cumulus", "Stratus", "Cirrus", "Nimbostratus"]
+                },
+                {
+                    "name": "Famous Mountains",
+                    "terms": ["Mount Everest", "K2", "Kilimanjaro", "Mount Fuji"]
+                },
+                {
+                    "name": "Social Media Platforms",
+                    "terms": ["Facebook", "Twitter", "Instagram", "TikTok"]
+                },
+                {
+                    "name": "Types of Cheese",
+                    "terms": ["Cheddar", "Mozzarella", "Brie", "Gorgonzola"]
+                },
+                {
+                    "name": "Famous Explorers",
+                    "terms": ["Christopher Columbus", "Marco Polo", "Ferdinand Magellan", "James Cook"]
+                },
+                {
+                    "name": "Beers of the World",
+                    "terms": ["Heineken", "Corona", "Guinness", "Budweiser"]
+                },
+                {
+                    "name": "Types of Wind",
+                    "terms": ["Breeze", "Gale", "Cyclone", "Hurricane"]
+                },
+                {
+                    "name": "Types of Dance",
+                    "terms": ["Ballet", "Salsa", "Hip-Hop", "Waltz"]
+                },
+                {
+                    "name": "Parts of the Human Body",
+                    "terms": ["Heart", "Lungs", "Brain", "Liver"]
+                },
+                {
+                    "name": "Famous Composers",
+                    "terms": ["Johann Sebastian Bach", "Ludwig van Beethoven", "Wolfgang Amadeus Mozart", "Frederic Chopin"]
+                },
+                {
+                    "name": "Literary Genres",
+                    "terms": ["Fiction", "Non-Fiction", "Mystery", "Fantasy"]
+                },
+                {
+                    "name": "Beverages",
+                    "terms": ["Coffee", "Tea", "Soda", "Juice"]
+                },
+                {
+                    "name": "Mythological Creatures",
+                    "terms": ["Dragon", "Unicorn", "Phoenix", "Mermaid"]
+                },
+                {
+                    "name": "Types of  Vehicles",
+                    "terms": ["Car", "Motorcycle", "Bicycle", "Truck"]
+                },
+                {
+                    "name": "Famous Inventions",
+                    "terms": ["Telephone", "Light Bulb", "Internet", "Airplane"]
+                },
+                {
+                    "name": "Genres of Music",
+                    "terms": ["Rock", "Pop", "Jazz", "Classical"]
+                },
+                {
+                    "name": "Ocean Zones",
+                    "terms": ["Intertidal", "Neritic", "Bathyal", "Abyssal"]
+                },
+                {
+                    "name": "Types of Government",
+                    "terms": ["Democracy", "Monarchy", "Authoritarian", "Communism"]
+                },
+                {
+                    "name": "Famous Waves",
+                    "terms": ["Ocean Waves", "Radio Waves", "Sound Waves", "Seismic Waves"]
+                },
+                {
+                    "name": "Common Allergens",
+                    "terms": ["Pollen", "Dust Mites", "Pet Dander", "Milk"]
+                },
+                {
+                    "name": "The Seven Wonders of the World",
+                    "terms": ["Great Wall of China", "Christ the Redeemer", "Machu Picchu", "Chichen Itza"]
+                },
+                {
+                    "name": "Elements of a Story",
+                    "terms": ["Characters", "Setting", "Plot", "Conflict"]
+                },
+                {
+                    "name": "Ancient Civilizations",
+                    "terms": ["Egyptian", "Greek", "Roman", "Mayan"]
+                },
+                {
+                    "name": "Celestial Bodies",
+                    "terms": ["Star", "Planet", "Moon", "Asteroid"]
+                },
+                {
+                    "name": "Popular Toys",
+                    "terms": ["LEGO", "Barbie", "Hatchimals", "Action Figures"]
+                },
+                {
+                    "name": "Historical Figures",
+                    "terms": ["George Washington", "Abraham Lincoln", "Martin Luther King Jr.", "Rosa Parks"]
+                },
+                {
+                    "name": "Types of Poetry",
+                    "terms": ["Haiku", "Sonnet", "Limerick", "Free Verse"]
+                },
+                {
+                    "name": "Natural Disasters",
+                    "terms": ["Earthquake", "Hurricane", "Tornado", "Flood"]
+                },
+                {
+                    "name": "Types of Sculpture",
+                    "terms": ["Relief", "In the Round", "Kinetic", "Environmental"]
+                },
+                {
+                    "name": "Famous Philosophers",
+                    "terms": ["Socrates", "Plato", "Aristotle", "Confucius"]
+                },
+                {
+                    "name": "Human Senses",
+                    "terms": ["Sight", "Hearing", "Taste", "Touch"]
+                },
+                {
+                    "name": "Associations with the Color Red",
+                    "terms": ["Love", "Anger", "Stop", "Danger"]
+                },
+                {
+                    "name": "Popular Board Games",
+                    "terms": ["Monopoly", "Scrabble", "Risk", "Clue"]
+                },
+                {
+                    "name": "Famous Landmarks",
+                    "terms": ["Eiffel Tower", "Statue of Liberty", "Taj Mahal", "Colosseum"]
+                },
+                {
+                    "name": "Types of Energy",
+                    "terms": ["Kinetic", "Potential", "Thermal", "Chemical"]
+                },
+                {
+                    "name": "Component of a Computer",
+                    "terms": ["CPU", "RAM", "Hard Drive", "Motherboard"]
+                },
+                {
+                    "name": "Famous Duos in History",
+                    "terms": ["Lewis and Clark", "Bonnie and Clyde", "John Lennon and Paul McCartney", "Batman and Robin"]
+                },
+                {
+                    "name": "Types of Dances",
+                    "terms": ["Ballet", "Samba", "Cha Cha", "Tango"]
+                },
+                {
+                    "name": "Popular Anime Shows",
+                    "terms": ["Naruto", "Attack on Titan", "One Piece", "My Hero Academia"]
+                },
+                {
+                    "name": "Cooking Techniques",
+                    "terms": ["Boiling", "Frying", "Grilling", "Baking"]
+                },
+                {
+                    "name": "Body Systems",
+                    "terms": ["Circulatory", "Respiratory", "Nervous", "Digestive"]
+                },
+                {
+                    "name": "Species of Birds",
+                    "terms": ["Eagle", "Parrot", "Penguin", "Sparrow"]
+                },
+                {
+                    "name": "Types of Weather",
+                    "terms": ["Sunny", "Rainy", "Snowy", "Cloudy"]
+                },
+                {
+                    "name": "Ancient Wonders",
+                    "terms": ["Lighthouse of Alexandria", "Hanging Gardens of Babylon", "Statue of Zeus", "Colossus of Rhodes"]
+                },
+                {
+                    "name": "Classic Video Games",
+                    "terms": ["Pac-Man", "Super Mario Bros", "Tetris", "Sonic the Hedgehog"]
+                },
+                {
+                    "name": "Genres of Film",
+                    "terms": ["Action", "Drama", "Comedy", "Horror"]
+                },
+                {
+                    "name": "Types of Rocks",
+                    "terms": ["Igneous", "Sedimentary", "Metamorphic", "Volcanic"]
+                },
+                {
+                    "name": "Swinging Sixties Cinema",
+                    "terms": [
+                        "Psycho",
+                        "Dr. Strangelove",
+                        "The Graduate",
+                        "2001: A Space Odyssey",
+                        "Lawrence of Arabia"
+                    ]
+                },
+                {
+                    "name": "Seventies Silver Screen",
+                    "terms": [
+                        "The Godfather (1972)",
+                        "Star Wars: A New Hope (1977)",
+                        "Jaws (1975)",
+                        "Taxi Driver (1976)",
+                        "Apocalypse Now (1979)"
+                    ]
+                },
+                {
+                    "name": "Eighties Movie Magic",
+                    "terms": [
+                        "E.T. the Extra-Terrestrial (1982)",
+                        "Raiders of the Lost Ark (1981)",
+                        "The Breakfast Club (1985)",
+                        "Back to the Future (1985)",
+                        "Die Hard (1988)"
+                    ]
+                },
+                {
+                    "name": "Nineties Blockbusters & Indies",
+                    "terms": [
+                        "Pulp Fiction (1994)",
+                        "Jurassic Park (1993)",
+                        "Titanic (1997)",
+                        "The Shawshank Redemption (1994)",
+                        "The Matrix (1999)"
+                    ]
+                },
+
+                {
+                    "name": "Noughties Cinema (2000s)",
+                    "terms": [
+                        "The Dark Knight (2008)",
+                        "The Lord of the Rings: The Return of the King (2003)",
+                        "No Country for Old Men (2007)",
+                        "Gladiator (2000)",
+                        "Eternal Sunshine of the Spotless Mind (2004)"
+                    ]
+                },
+                {
+                    "name": "2010s Film Flashback",
+                    "terms": [
+                        "Inception (2010)",
+                        "Avengers: Endgame (2019)",
+                        "Mad Max: Fury Road (2015)",
+                        "Parasite (2019)",
+                        "La La Land (2016)"
+                    ]
+                },
+                {
+                    "name": "Classic Westerns: Gunslingers & Frontiers",
+                    "genre": "Western",
+                    "terms": [
+                        "The Searchers (1956)",
+                        "High Noon (1952)",
+                        "The Good, the Bad and the Ugly (1966)",
+                        "Stagecoach (1939)",
+                        "Unforgiven (1992)",
+                        "True Grit"
+                    ]
+                },
+                {
+                    "name": "Sci-Fi Masterpieces: Beyond Our World",
+                    "genre": "Science Fiction",
+                    "terms": [
+                        "2001: A Space Odyssey (1968)",
+                        "Blade Runner (1982)",
+                        "Star Wars: A New Hope (1977)",
+                        "Alien (1979)",
+                        "Metropolis (1927)"
+                    ]
+                },
+                {
+                    "name": "Horror Icons: Creatures & Creeps",
+                    "genre": "Horror",
+                    "terms": [
+                        "Psycho (1960)",
+                        "The Exorcist (1973)",
+                        "Halloween (1978)",
+                        "The Shining (1980)",
+                        "Nosferatu (1922)"
+                    ]
+                },
+                {
+                    "name": "Comedy Gold: Laugh-Out-Loud Legends",
+                    "genre": "Comedy",
+                    "terms": [
+                        "Some Like It Hot (1959)",
+                        "Dr. Strangelove (1964)",
+                        "Monty Python and the Holy Grail (1975)",
+                        "Annie Hall (1977)",
+                        "Duck Soup (1933)"
+                    ]
+                },
+                {
+                    "name": "Musical Magic: Showstoppers & Soundtracks",
+                    "genre": "Musical",
+                    "terms": [
+                        "Singin' in the Rain",
+                        "The Wizard of Oz",
+                        "West Side Story",
+                        "The Sound of Music",
+                        "Cabaret"
+                    ]
+                },
+                {
+                    "name": "Film Noir: Shadows & Suspects",
+                    "genre": "Film Noir",
+                    "terms": [
+                        "The Maltese Falcon",
+                        "Double Indemnity",
+                        "Sunset Boulevard",
+                        "Touch of Evil",
+                        "Out of the Past"
+                    ]
+                },
+                {
+                    "name": "War Epics: Battles & Bravery",
+                    "genre": "War",
+                    "terms": [
+                        "Apocalypse Now",
+                        "Saving Private Ryan",
+                        "Paths of Glory",
+                        "The Bridge on the River Kwai",
+                        "Lawrence of Arabia",
+                        "Glory",
+                        "Hacksaw Ridge"
+                    ]
+                },
+                {
+                    "name": "Animated Classics: Drawn to Perfection",
+                    "genre": "Animation",
+                    "terms": [
+                        "Snow White and the Seven Dwarfs",
+                        "Spirited Away",
+                        "Toy Story",
+                        "Pinocchio",
+                        "Akira"
+                    ]
+                },
+                {
+                    "name": "Romantic Greats: Hearts & Heartbreaks",
+                    "genre": "Romance",
+                    "terms": [
+                        "Casablanca",
+                        "Gone with the Wind",
+                        "Roman Holiday",
+                        "Brief Encounter",
+                        "When Harry Met Sally...",
+                        "An Affair to Remember"
+                    ]
+                },
+                {
+                    "name": "Thriller Triumphs: Suspense & Surprises",
+                    "genre": "Thriller",
+                    "terms": [
+                        "The Silence of the Lambs",
+                        "North by Northwest",
+                        "Seven (Se7en)",
+                        "Rear Window",
+                        "The French Connection"
+                    ]
+                },
+                {
+                    "name": "\"The Big Reveal\" films",
+                    "terms": [
+                        "The Hound of thee Baskervilles",
+                        "The Great Mouse Detective",
+                        "Murder on the Orient Express",
+                        "Death on the Nile",
+                        "The Usual Suspects",
+                        "The Sixth Sense",
+                        "Witness for the Prosecution",
+                        "Knives Out",
+                        "Glass Onion",
+                        "Shutter Island",
+                        "Get Out"
+                    ]
+                },
+                {
+                    "name": "Athletes in iconic sports moments of the 50's",
+                    "terms": [
+                        "Bobby Thompson",
+                        "Willie Mays",
+                        "Don Larsen",
+                        "Roger Bannister",
+                        "Rocky Marciano",
+                        "Sugar Ray Robinson",
+                        "Jake LaMotta",
+                        "Bill Russell",
+                        "Alan Ameche"
+                    ]
+                },
+                {
+                    "name": "Athletes in iconic sports moments of the 60's",
+                    "terms": [
+                        "Wilma Rudolph",
+                        "Cassius Clay",
+                        "Lynn Swann",
+                        "Pele",
+                        "Bob Beamon",
+                        "Tommy Smith",
+                        "John Carlos",
+                        "Dick Fosbury",
+                        "Wilt Chamberlain",
+                        "Bart Starr",
+                        "Joe Namath",
+                        "Roger Maris"
+                    ]
+                },
+                {
+                    "name": "Athletes in iconic sports moments of the 70's",
+                    "terms": [
+                        "Franco Harris",
+                        "Reggie Jackson",
+                        "Johan Cruyff",
+                        "Terry Bradshaw",
+                        "Muhammad Ali",
+                        "Joe Frazier",
+                        "Sugar Ray Leonard",
+                        "Hank Aaron",
+                        "Johnny Bench",
+                        "Pete Rose",
+                        "Willis Reed",
+                        "Mark Spitz",
+                        "Nadia Comaneci",
+                        "Billie Jean King"
+                    ]
+                },
+                {
+                    "name": "Athletes in iconic sports moments of the 80's",
+                    "terms": [
+                        "Joe Montana",
+                        "Dwight Clark",
+                        "Kirk Gibson",
+                        "Maradona",
+                        "Mary Lou Retton",
+                        "Carl Lewis",
+                        "Magic Johnson",
+                        "Larry Bird",
+                        "Michael Jordan",
+                        "William Perry",
+                        "Cal Ripken, Jr.",
+                        "Bill Buckner",
+                        "Wayne Gretzky",
+                        "John McEnroe"
+                    ]
+                },
+                {
+                    "name": "Athletes in iconic sports moments of the 90's",
+                    "terms": [
+                        "John Elway",
+                        "Kordell Stewart",
+                        "Derek Jeter",
+                        "Troy Aikman",
+                        "Emmitt Smith",
+                        "Jim Kelly",
+                        "Mark McGwire",
+                        "Sammy Sosa",
+                        "Mike Maddux",
+                        "Tom Glavine",
+                        "John Smoltz",
+                        "Mark Messier",
+                        "Tiger Woods",
+                        "Monica Seles"
+                    ]
+                },
+                {
+                    "name": "Athletes in iconic sports moments of the 00's",
+                    "terms": [
+                        "David Tyree",
+                        "Vince Young",
+                        "Aaron Boone",
+                        "Zinedine Zidane",
+                        "Shaquille O'Neal",
+                        "Kobe Bryant",
+                        "Tim Duncan",
+                        "LeBron James",
+                        "Kevin Garnett",
+                        "Tom Brady",
+                        "Peyton Manning",
+                        "Eli Manning",
+                        "Barry Bonds",
+                        "Michael Phelps",
+                        "Usain Bolt"
+                    ]
+                },
+                {
+                    "name": "Athletes in iconic sports moments of the 10's",
+                    "terms": [
+                        "Chris Davis",
+                        "Jose Bautista",
+                        "Lionel Messi",
+                        "Stephen Curry",
+                        "David Ortiz",
+                        "Alex Ovechkin",
+                        "Serena Williams",
+                        "Ronda Rousey",
+                        "Conor McGregor"
+                    ]
+                },	
+                {
+                    "name": "The Legendary Tier (Rockers '65-'85)",
+                    "terms": [
+                        "Led Zeppelin",
+                        "The Beatles",
+                        "The Rolling Stones",
+                        "Pink Floyd",
+                        "The Who",
+                        "Queen",
+                        "AC/DC",
+                        "Black Sabbath",
+                        "Deep Purple",
+                        "Aerosmith",
+                        "Fleetwood Mac",
+                        "Eagles",
+                        "Van Halen",
+                        "Lynyrd Skynyrd",
+                        "Creedence Clearwater Revival",
+                        "The Doors",
+                        "Kiss",
+                        "Rush",
+                        "Jethro Tull",
+                        "Yes"
+                    ]
+                },
+                {
+                    "name": "The Classic Rock Elite (Rockers '65-'85)",
+                    "terms": [
+                        "ZZ Top",
+                        "Cheap Trick",
+                        "Boston",
+                        "Heart",
+                        "Foreigner",
+                        "Journey",
+                        "Styx",
+                        "Kansas",
+                        "REO Speedwagon",
+                        "Steely Dan",
+                        "The Allman Brothers Band",
+                        "Grand Funk Railroad",
+                        "Blue Öyster Cult",
+                        "Thin Lizzy",
+                        "Bad Company",
+                        "Free",
+                        "Uriah Heep",
+                        "Humble Pie",
+                        "Foghat"
+                    ]
+                },
+                {
+                    "name": "The Influential Masters (Rockers '65-'85)",
+                    "terms": [
+                        "The Kinks",
+                        "The Yardbirds",
+                        "Cream",
+                        "The Jimi Hendrix Experience",
+                        "Santana",
+                        "Mountain",
+                        "Cactus",
+                        "Golden Earring",
+                        "Nazareth",
+                        "Savoy Brown",
+                        "Ten Years After",
+                        "Bachman Turner Overdrive",
+                        "The Guess Who",
+                        "Slade",
+                        "Sweet",
+                        "T. Rex",
+                        "Mott the Hoople",
+                        "The Faces",
+                        "Traffic",
+                        "Blind Faith"
+                    ]
+                },
+                {
+                    "name": "The Rock Innovators (Rockers '65-'85)",
+                    "terms": [
+                        "Alice Cooper",
+                        "Iggy Pop & The Stooges",
+                        "MC5",
+                        "The New York Dolls",
+                        "Television",
+                        "Patti Smith",
+                        "Talking Heads",
+                        "Blondie",
+                        "The Ramones",
+                        "The Sex Pistols",
+                        "The Clash",
+                        "The Pretenders",
+                        "Elvis Costello",
+                        "Joe Jackson",
+                        "Devo",
+                        "The Cars",
+                        "Roxy Music",
+                        "David Bowie",
+                        "Lou Reed",
+                        "Sparks"
+                    ]
+                },
+                {
+                    "name": "The Solid Rockers (Rockers '65-'85)",
+                    "terms": [
+                        "Def Leppard",
+                        "Rainbow",
+                        "Dio",
+                        "Judas Priest",
+                        "Iron Maiden",
+                        "Motorhead",
+                        "Saxon",
+                        "UFO",
+                        "Scorpions",
+                        "Whitesnake",
+                        "Pat Benatar",
+                        "Joan Jett & The Blackhearts",
+                        "The Go",
+                        "The Runaways",
+                        "Suzi Quatro",
+                        "April Wine",
+                        "Triumph",
+                        "The Babys",
+                        "Player",
+                        "Pablo Cruise"
+
+                    ]
+                },
+                {
+                    "name": "The Legendary Tier Hits (65-85 Rock hits)",
+                    "terms": [
+                        "Stairway to Heaven",
+                        "Whole Lotta Love",
+                        "Kashmir",
+                        "Hey Jude",
+                        "Come Together",
+                        "Let It Be",
+                        "Paint It Black",
+                        "Satisfaction",
+                        "Start Me Up",
+                        "Another Brick in the Wall",
+                        "Comfortably Numb",
+                        "Money",
+                        "Won't Get Fooled Again",
+                        "Baba O'Riley",
+                        "My Generation",
+                        "Bohemian Rhapsody",
+                        "We Will Rock You",
+                        "Another One Bites the Dust",
+                        "Back in Black",
+                        "Highway to Hell",
+                        "Thunderstruck",
+                        "Paranoid",
+                        "Iron Man",
+                        "War Pigs",
+                        "Smoke on the Water",
+                        "Highway Star",
+                        "Machine Head",
+                        "Dream On",
+                        "Sweet Emotion",
+                        "Walk This Way",
+                        "Go Your Own Way",
+                        "Don't Stop",
+                        "Rhiannon",
+                        "Hotel California",
+                        "Take It Easy",
+                        "Life in the Fast Lane",
+                        "Jump",
+                        "Runnin' with the Devil",
+                        "Dance the Night Away",
+                        "Sweet Home Alabama",
+                        "Free Bird",
+                        "Simple Man",
+                        "Bad Moon Rising",
+                        "Fortunate Son",
+                        "Have You Ever Seen the Rain?",
+                        "Light My Fire",
+                        "Riders on the Storm",
+                        "Break On Through",
+                        "Rock and Roll All Nite",
+                        "Detroit Rock City",
+                        "Beth",
+                        "Tom Sawyer",
+                        "Limelight",
+                        "Freewill",
+                        "Aqualung",
+                        "Locomotive Breath",
+                        "Bungle in the Jungle",
+                        "Roundabout",
+                        "Owner of a Lonely Heart",
+                        "Long Distance Runaround"
+                    ]
+                },
+                {
+                    "name": "The Classic Rock Elite Hits (65-85 Rock hits)",
+                    "terms": [
+                        "La Grange",
+                        "Tush",
+                        "Sharp Dressed Man",
+                        "I Want You to Want Me",
+                        "Surrender",
+                        "Dream Police",
+                        "More Than a Feeling",
+                        "Peace of Mind",
+                        "Foreplay/Long Time",
+                        "Barracuda",
+                        "Magic Man",
+                        "Crazy on You",
+                        "Cold as Ice",
+                        "Feels Like the First Time",
+                        "Hot Blooded",
+                        "Don't Stop Believin'",
+                        "Any Way You Want It",
+                        "Wheel in the Sky",
+                        "Come Sail Away",
+                        "Renegade",
+                        "Lady",
+                        "Carry On Wayward Son",
+                        "Dust in the Wind",
+                        "Point of Know Return",
+                        "Can't Fight This Feeling",
+                        "Take It on the Run",
+                        "Keep On Loving You",
+                        "Reelin' in the Years",
+                        "Do It Again",
+                        "Rikki Don't Lose That Number",
+                        "Ramblin' Man",
+                        "Midnight Rambler",
+                        "Jessica",
+                        "We're an American Band",
+                        "Some Kind of Wonderful",
+                        "The Loco",
+                        "Don't Fear the Reaper",
+                        "Burnin' for You",
+                        "Godzilla",
+                        "The Boys Are Back in Town",
+                        "Jailbreak",
+                        "Whiskey in the Jar",
+                        "Can't Get Enough",
+                        "Feel Like Makin' Love",
+                        "Rock 'n' Roll Fantasy",
+                        "All Right Now",
+                        "Fire and Water",
+                        "Wishing Well",
+                        "Easy Livin'",
+                        "Lady in Black",
+                        "Stealin'",
+                        "30 Days in the Hole",
+                        "I Don't Need No Doctor",
+                        "Black Coffee",
+                        "Slow Ride",
+                        "Fool for the City",
+                        "I Just Want to Make Love to You"
+                    ]
+                },
+                {
+                    "name": "The Influential Masters Hits (65-85 Rock hits)",
+                    "terms": [
+                        "You Really Got Me",
+                        "Lola",
+                        "Come Dancing",
+                        "For Your Love",
+                        "Heart Full of Soul",
+                        "Over Under Sideways Down",
+                        "Sunshine of Your Love",
+                        "White Room",
+                        "Crossroads",
+                        "Purple Haze",
+                        "All Along the Watchtower",
+                        "Hey Joe",
+                        "Black Magic Woman",
+                        "Oye Como Va",
+                        "Evil Ways",
+                        "Mississippi Queen",
+                        "Nantucket Sleighride",
+                        "Theme for an Imaginary Western",
+                        "Evil",
+                        "Parchman Farm",
+                        "Long Tall Sally",
+                        "Radar Love",
+                        "Twilight Zone",
+                        "When the Lady Smiles",
+                        "Hair of the Dog",
+                        "Love Hurts",
+                        "This Flight Tonight",
+                        "I'm Tired",
+                        "Train to Nowhere",
+                        "Street Corner Talking",
+                        "I'm Going Home",
+                        "I'd Love to Change the World",
+                        "Good Morning Little Schoolgirl",
+                        "Takin' Care of Business",
+                        "You Ain't Seen Nothing Yet",
+                        "Roll On Down the Highway",
+                        "American Woman",
+                        "These Eyes",
+                        "No Time",
+                        "Cum on Feel the Noize",
+                        "Mama Weer All Crazee Now",
+                        "Run Runaway",
+                        "Ballroom Blitz",
+                        "Fox on the Run",
+                        "Love Is Like Oxygen",
+                        "Bang a Gong (Get It On)",
+                        "Jeepster",
+                        "20th Century Boy",
+                        "All the Young Dudes",
+                        "All the Way from Memphis",
+                        "Roll Away the Stone",
+                        "Stay with Me",
+                        "Ooh La La",
+                        "Cindy Incidentally",
+                        "The Low Spark of High Heeled Boys",
+                        "Dear Mr. Fantasy",
+                        "Gimme Some Lovin'",
+                        "Can't Find My Way Home",
+                        "Had to Cry Today",
+                        "Presence of the Lord"
+                    ]
+                },
+                {
+                    "name": "The Rock Innovators Hits (65-85 Rock hits)",
+                    "terms": [
+                        "School's Out",
+                        "I'm Eighteen",
+                        "No More Mr. Nice Guy",
+                        "I Wanna Be Your Dog",
+                        "Search and Destroy",
+                        "Lust for Life",
+                        "Kick Out the Jams",
+                        "Looking at You",
+                        "Ramblin' Rose",
+                        "Personality Crisis",
+                        "Trash",
+                        "Jet Boy",
+                        "Marquee Moon",
+                        "See No Evil",
+                        "Friction",
+                        "Because the Night",
+                        "Gloria",
+                        "Dancing Barefoot",
+                        "Burning Down the House",
+                        "Once in a Lifetime",
+                        "Psycho Killer",
+                        "Heart of Glass",
+                        "Call Me",
+                        "One Way or Another",
+                        "Blitzkrieg Bop",
+                        "I Wanna Be Sedated",
+                        "Pet Sematary",
+                        "Anarchy in the U.K.",
+                        "God Save the Queen",
+                        "Pretty Vacant",
+                        "London Calling",
+                        "Rock the Casbah",
+                        "Should I Stay or Should I Go",
+                        "Brass in Pocket",
+                        "Back on the Chain Gang",
+                        "Don't Get Me Wrong",
+                        "Pump It Up",
+                        "Alison",
+                        "Radio Radio",
+                        "Is She Really Going Out with Him?",
+                        "Steppin' Out",
+                        "Real Men",
+                        "Whip It",
+                        "Girl U Want",
+                        "Freedom of Choice",
+                        "Just What I Needed",
+                        "My Best Friend's Girl",
+                        "Drive",
+                        "More Than This",
+                        "Love Is the Drug",
+                        "Virginia Plain",
+                        "Heroes",
+                        "Golden Years",
+                        "Let's Dance",
+                        "Walk on the Wild Side",
+                        "Sweet Jane",
+                        "Satellite of Love",
+                        "This Town Ain't Big Enough for Both of Us",
+                        "Amateur Hour",
+                        "Cool Places"
+                    ]
+                },
+                {
+                    "name": "The Solid Rockers Hits (65-85 Rock hits)",
+                    "terms": [
+                        "Photograph",
+                        "Rock of Ages",
+                        "Bringin' On the Heartbreak",
+                        "Since You Been Gone",
+                        "Stone Cold",
+                        "Man on the Silver Mountain",
+                        "Holy Diver",
+                        "Rainbow in the Dark",
+                        "We Rock",
+                        "Breaking the Law",
+                        "You've Got Another Thing Comin'",
+                        "Living After Midnight",
+                        "Run to the Hills",
+                        "The Number of the Beast",
+                        "Aces High",
+                        "Ace of Spades",
+                        "Overkill",
+                        "Bomber",
+                        "Wheels of Steel",
+                        "Denim and Leather",
+                        "Power and the Glory",
+                        "Doctor Doctor",
+                        "Rock Bottom",
+                        "Lights Out",
+                        "Rock You Like a Hurricane",
+                        "No One Like You",
+                        "The Zoo",
+                        "Here I Go Again",
+                        "Is This Love",
+                        "Still of the Night",
+                        "Hit Me with Your Best Shot",
+                        "Love Is a Battlefield",
+                        "Heartbreaker",
+                        "I Love Rock 'n' Roll",
+                        "Bad Reputation",
+                        "Crimson and Clover",
+                        "We Got the Beat",
+                        "Our Lips Are Sealed",
+                        "Vacation",
+                        "Cherry Bomb",
+                        "Queens of Noise",
+                        "Hollywood",
+                        "Can the Can",
+                        "48 Crash",
+                        "Devil Gate Drive",
+                        "Sign of the Gypsy Queen",
+                        "I Like to Rock",
+                        "Just Between You and Me",
+                        "Lay It on the Line",
+                        "Magic Power",
+                        "Hold On",
+                        "Isn't It Time",
+                        "Every Time I Think of You",
+                        "Back on My Feet Again",
+                        "Baby Come Back",
+                        "This Time I'm in It for Love",
+                        "Prisoner of Your Love",
+                        "Love Will Find a Way",
+                        "Whatcha Gonna Do?",
+                        "A Place in the Sun"
+                    ]
+                }
+            ]
+        },
+        {
+            "dataset_name": "Kelley",
+            "Categories": [
+                {
+                    "name": "The Aunts",
+                    "terms": [
+                        "Peg",
+                        "Evelyn",
+                        "Elaine",
+                        "Mary",
+                        "Joanne",
+                        "Kathy",
+                        "Connie",
+                        "Irene"
+                    ]
+                },
+                {
+                    "name": "The Uncles",
+                    "terms": [
+                        "Jim",
+                        "Dick",
+                        "John",
+                        "Al",
+                        "Ed",
+                        "Bill L",
+                        "Bill K"
+                    ]
+                },
+                {
+                    "name": "Important Massachusetts Towns",
+                    "terms": [
+                        "Edgartown",
+                        "Harwich",
+                        "Brewster",
+                        "Watertown",
+                        "Attleboro",
+                        "Belmont",
+                        "Nantucket"
+                    ]
+                },
+                {
+                    "name": "Edgak...Edguka...Teechurs in the Family",
+                    "terms": [
+                        "Joe (Pop)",
+                        "Elaine",
+                        "John",
+                        "Kathy",
+                        "Ed",
+                        "Mugs",
+                        "Liz",
+                        "Bob",
+                        "Katie"
+                    ]
+                },
+                {
+                    "name": "The Cousins",
+                    "terms": [
+                        "Kate",
+                        "Anne",
+                        "Mugs",
+                        "Liz",
+                        "John",
+                        "Bob",
+                        "Caroline",
+                        "Patty",
+                        "Jenny",
+                        "Rick",
+                        "Jack",
+                        "Jeanne",
+                        "Chris",
+                        "Katie",
+                        "Matt K.",
+                        "Corinne",
+                        "Jon",
+                        "Jeff",
+                        "Matt H."                        
+                    ]
+                },
+                {
+                    "name": "The Cousin's Partners",
+                    "terms": [
+                        "Mark P.",
+                        "Mark H.",
+                        "John",
+                        "Mitzi",
+                        "Madelynn",
+                        "Jill",
+                        "Bill",
+                        "Carrie",
+                        "Cristian",
+                        "Mike",
+                        "Megan",
+                        "Lindsay",
+                        "Andrew"
+                    ]
+                },
+                {
+                    "name": "The Cousin's Kids",
+                    "terms": [
+                        "Ally",
+                        "Alex Polo",
+                        "Alex Port",
+                        "Paige",
+                        "Shannon",
+                        "Jimmy",
+                        "Maeve",
+                        "Annie",
+                        "Jenny S.",
+                        "Vince",
+                        "Matthias",
+                        "Cameron",
+                        "Ellie",
+                        "Todd",
+                        "Noa",
+                        "Luca",
+                        "Evangeline",
+                        "Nova",
+                        "June",
+                        "Ruby",
+                        "Geoffrey",
+                        "Toby",
+                        "Liam",
+                        "Ethan",
+                        "Jack",
+                        "Emma"
+                    ]
+                },
+                {
+                    "name": "The Cousin's Grandkids",
+                    "terms": [
+                        "Sophie",
+                        "Quinn",
+                        "Felix",
+                        "Nya",
+                        "Callen",
+                        "Lily",
+                        "Maria",
+                        "Luca"
+                    ]
+                }
+            ]
+        }
+    ]
+}
